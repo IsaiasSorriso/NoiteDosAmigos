@@ -38,8 +38,8 @@
 
 ## **🎨 Preview**  
 
-| **Tela Inicial** | **Tela de Resultado** |
-|------------------|----------------------|
+| **Tela Inicial** |
+|------------------|
 | ![image](https://github.com/user-attachments/assets/f0fb1b2d-85dd-4790-91cd-d169c75d5063) |
 
 ---
